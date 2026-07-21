@@ -1,0 +1,16 @@
+{
+  "name": "7span-skills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "validate": "node scripts/validate-skills.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
