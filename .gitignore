@@ -2,6 +2,23 @@
 node_modules/
 jspm_packages/
 
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Claude Code local state (never commit personal settings)
+.claude/settings.local.json
+.claude/local/
+
+# Misc
+*.log
+.env
+
 # VS Code files
 .vscode/*
 !.vscode/extensions.json
